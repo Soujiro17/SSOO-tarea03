@@ -8,4 +8,7 @@
 
 # Bibliografía
 
-> Para realizar la tarea se recurrieron a los apuntes de _Procesos y Señales_ vistos en clases por el profesor Gabriel Astudillo.
+> Para trabajar el área de procesos se recurrieró a los apuntes de _Procesos y Señales_ vistos en clases por el profesor Gabriel Astudillo. Por otro lado, en la parte de señales, se trabajó con el código de ejemplo subido por el mismo profesor.
+
+* [Código de ejemplo de señales en C++](https://github.com/g-courses/SSOO/tree/main/tarea03)
+* [Procesos y señales](https://aulavirtualpre2020.uv.cl/pluginfile.php/352694/mod_resource/content/1/ProcesosySenales.pdf)
