@@ -9,7 +9,3 @@
 # Bibliografía
 
 > Para realizar la tarea se recurrieron a los apuntes de _Procesos y Señales_ vistos en clases por el profesor Gabriel Astudillo.
-
-- [Guía del comando jq](https://www.baeldung.com/linux/jq-command-json)
-
-> Y se utilizó el comando **man** para obtener información y así trabajar con el comando **curl**
